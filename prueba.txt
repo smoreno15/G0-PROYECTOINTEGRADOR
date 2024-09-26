@@ -1,6 +1,14 @@
 Paola- Backend
+Codigos del backend
+Agregando informacion
+Nueva info
+x2
+x3
+
+
 
 Pierre- Frontend (Java Swing)
+
 Vista
 Dibujos
 colores 
