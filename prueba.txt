@@ -1,6 +1,6 @@
 Paola- Backend
 
-Pierre- Frontend
+Pierre- Frontend (Java Swing)
 Vista
 Dibujos
 colores 
